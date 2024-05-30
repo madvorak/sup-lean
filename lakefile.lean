@@ -11,6 +11,9 @@ require PrimeNumberTheoremAnd from git
 require «flt-regular» from git
   "https://github.com/leanprover-community/flt-regular"
 
+require LeanCamCombi from git
+  "https://github.com/YaelDillies/LeanCamCombi"
+
 @[default_target]
 lean_lib «SupLean» {
   -- add any library configuration options here
