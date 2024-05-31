@@ -14,6 +14,9 @@ require «flt-regular» from git
 require LeanCamCombi from git
   "https://github.com/YaelDillies/LeanCamCombi"
 
+require «formalSnarksProject» from git
+  "https://github.com/BoltonBailey/formal-snarks-project"
+
 @[default_target]
 lean_lib «SupLean» {
   -- add any library configuration options here
